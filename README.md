@@ -24,7 +24,7 @@ Here are a few noteworthy projects I've worked on:
 
 - [Twin Cities](https://github.com/andrei2timo/TwinCities.git): A PHP-based web application that leverages Google APIs to access the geo-location of various points of interest, weather information, and tweets related to the Twin Cities area.
 
-- [Stream Cipher Application using a Steganographic Technique]([https://github.com/andrei2timo/TwinCities.git](https://github.com/andrei2timo/Cryptography-Coursework---Final-Year)): This GitHub repository hosts an innovative project focused on cryptography and data hiding. The project combines the principles of stream ciphers and steganography to create a robust encryption and concealment solution. With the aim of enhancing data security and privacy, the repository contains source code and documentation for this stream cipher application, providing users with a powerful tool to protect their sensitive information.
+- [Stream Cipher Application using a Steganographic Technique](https://github.com/andrei2timo/Cryptography-Coursework---Final-Year): This GitHub repository hosts an innovative project focused on cryptography and data hiding. The project combines the principles of stream ciphers and steganography to create a robust encryption and concealment solution. With the aim of enhancing data security and privacy, the repository contains source code and documentation for this stream cipher application, providing users with a powerful tool to protect their sensitive information.
 
 Feel free to explore my repositories to see more of my projects and contributions!
 
