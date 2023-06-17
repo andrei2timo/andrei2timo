@@ -32,7 +32,6 @@ Feel free to explore my repositories to see more of my projects and contribution
 
 I'm always open to connecting with fellow developers, collaborating on exciting projects, or simply having a conversation about technology. You can reach me via email at [andreitimo048@gmail.com](mailto:andreitimo048@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/andrei-timo-46b940180/).
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
 
 Let's create something amazing together!
 
