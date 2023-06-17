@@ -34,4 +34,4 @@ I'm always open to connecting with fellow developers, collaborating on exciting 
 
 Let's create something amazing together!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo"/>
