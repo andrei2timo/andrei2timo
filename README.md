@@ -34,13 +34,14 @@ Here are a few noteworthy projects I've worked on:
 
 Feel free to explore my repositories to see more of my projects and contributions!
 
-## Get in Touch
+## Get in Touch and Connect with me
 
-I'm always open to connecting with fellow developers, collaborating on exciting projects, or simply having a conversation about technology. You can reach me via email at [andreitimo048@gmail.com](mailto:andreitimo048@gmail.com).
+I'm always open to connecting with fellow developers, collaborating on exciting projects, or simply having a conversation about technology. 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/andrei-timo-46b940180/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:andreitimo048@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.facebook.com/timo.andrei/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 
