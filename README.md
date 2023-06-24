@@ -1,11 +1,11 @@
 # Welcome to Andrei Timo's GitHub Profile!
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical"/>
+
 ## About Me
 
 Hello there! I'm Andrei, a passionate software developer with a focus on building robust and scalable applications. I love diving into complex problems, crafting elegant solutions, and continuously expanding my knowledge in the ever-evolving world of technology.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical"/>
 
 ## My Interests
 
