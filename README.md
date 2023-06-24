@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to Andrei Timo's GitHub Profile! 👋</h2>
+<h2 align="center">Hi 👋! Welcome to Andrei Timo's GitHub Profile! &nbsp;&nbsp; <img src="https://github.com/andrei2timo/andrei2timo/raw/main/.data/waving.gif" width="50" height="50"/> </h2>
 <p align="center">
   <img src="https://github.com/andrei2timo/andrei2timo/raw/main/.data/waving.gif" width="50" height="50"/>
 </p>
