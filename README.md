@@ -40,10 +40,10 @@ I'm always open to connecting with fellow developers, collaborating on exciting 
 
 <div>
   <a href="https://www.linkedin.com/in/andrei-timo-46b940180/" style="display:inline-block;margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="filter: invert(0%);"> <!-- Add the "filter: invert(0%);" style to display the colored logo -->
   </a>
-  <a href="https://www.facebook.com/your_facebook_username" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" height="30" width="30">
+  <a href="https://https://www.facebook.com/timo.andrei/" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" height="30" width="30" style="filter: invert(0%);"> <!-- Add the "filter: invert(0%);" style to display the colored logo -->
   </a>
 </div>
 
