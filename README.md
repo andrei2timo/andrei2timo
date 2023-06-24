@@ -24,7 +24,7 @@ Hello there! I'm Andrei, a passionate software developer with a focus on buildin
 
 Here are a few noteworthy projects I've worked on:
 
-🎥 [Cinema System Management](https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B.git): A Django-based web application for managing a cinema system, utilizing Docker and APIs.
+🎥 [Cinema Management System](https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B.git): A Django-based web application for managing a cinema system, utilizing Docker and APIs.
 
 🧩 [AI Sudoku Solver using Algorithm X and Augmented Reality](https://github.com/andrei2timo/Dissertation---AI-Sudoku-Solver-using-Algorithm-X-and-Augmented-Reality.git): A project showcasing an AI-powered Sudoku solver implemented using Algorithm X and Augmented Reality technique.
 
@@ -70,7 +70,7 @@ Here are some of the technologies, programming-languages and frameworks I work w
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">&emsp;
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40">&emsp;
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40">&emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40">&emsp;
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="40" height="40">&emsp;
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40">&emsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40">
 </p>
