@@ -40,12 +40,13 @@ I'm always open to connecting with fellow developers, collaborating on exciting 
 
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/andrei-timo-46b940180/" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="filter: invert(45%) sepia(90%) saturate(3178%) hue-rotate(203deg) brightness(96%) contrast(88%);">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.png" alt="LinkedIn" height="30" width="30">
   </a>
   <a href="https://www.facebook.com/your_facebook_username">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" height="30" width="30" style="filter: invert(45%) sepia(90%) saturate(3178%) hue-rotate(203deg) brightness(96%) contrast(88%);">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.png" alt="Facebook" height="30" width="30">
   </a>
 </div>
+
 
 
 ## Technologies and Frameworks
