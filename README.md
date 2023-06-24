@@ -40,10 +40,10 @@ I'm always open to connecting with fellow developers, collaborating on exciting 
 
 <div>
   <a href="https://www.linkedin.com/in/andrei-timo-46b940180/" style="display:inline-block;margin-right:10px;">
-    <img src="https://cdn.iconify.design/logos-linkedin-icon.svg" alt="LinkedIn" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="30">
   </a>
   <a href="https://www.facebook.com/your_facebook_username" style="display:inline-block;">
-    <img src="https://cdn.iconify.design/logos-facebook.svg" alt="Facebook" height="30" width="30">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" height="30" width="30">
   </a>
 </div>
 
