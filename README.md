@@ -38,14 +38,10 @@ Feel free to explore my repositories to see more of my projects and contribution
 
 I'm always open to connecting with fellow developers, collaborating on exciting projects, or simply having a conversation about technology. You can reach me via email at [andreitimo048@gmail.com](mailto:andreitimo048@gmail.com).
 
-<div>
-  <a href="https://www.linkedin.com/in/andrei-timo-46b940180/" style="display:inline-block;margin-right:10px;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="30">
-  </a>
-  <a href="https://www.facebook.com/your_facebook_username" style="display:inline-block;">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" height="30" width="30">
-  </a>
-</div>
+<p align="left">
+<a href="https://www.linkedin.com/in/andrei-timo-46b940180/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:andreitimo048@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 
 ## Technologies and Frameworks
