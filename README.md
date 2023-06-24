@@ -1,7 +1,12 @@
 # Welcome to Andrei Timo's GitHub Profile!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical"/>
+<kbd>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical"/>
+</kbd>
+
+<kbd>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical"/>
+</kbd>
 
 ## About Me
 
