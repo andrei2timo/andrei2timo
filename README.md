@@ -1,4 +1,7 @@
-# Welcome to Andrei Timo's GitHub Profile!
+<h2 align="center">Welcome to Andrei Timo's GitHub Profile! 👋</h2>
+<p align="center">
+  <img src="https://github.com/andrei2timo/andrei2timo/blob/master/.data/waving.gif" width="50" height="50"/>
+</p>
 
 <kbd>
   <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical"/>
