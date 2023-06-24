@@ -2,9 +2,7 @@
 
 <kbd>
   <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical"/>
-</kbd>
 
-<kbd>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical"/>
 </kbd>
 
