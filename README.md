@@ -36,8 +36,26 @@ Feel free to explore my repositories to see more of my projects and contribution
 
 ## Get in Touch
 
-I'm always open to connecting with fellow developers, collaborating on exciting projects, or simply having a conversation about technology. You can reach me via email at [andreitimo048@gmail.com](mailto:andreitimo048@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/andrei-timo-46b940180/).
+I'm always open to connecting with fellow developers, collaborating on exciting projects, or simply having a conversation about technology. You can reach me via email at [andreitimo048@gmail.com](mailto:andreitimo048@gmail.com).
 
+<div>
+  <a href="https://www.linkedin.com/in/andrei-timo-46b940180/">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="30">
+  </a>
+  <a href="https://www.facebook.com/your_facebook_username">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" height="30" width="30">
+  </a>
+</div>
+
+## Technologies and Frameworks
+
+Here are some of the technologies and frameworks I work with:
+
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg" alt="Java" height="40" width="40">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" height="40" width="40">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg" alt="Django" height="40" width="40">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="Docker" height="40" width="40">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" alt="React" height="40" width="40">
 
 Let's create something amazing together!
 
