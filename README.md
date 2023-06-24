@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! Welcome to Andrei Timo's GitHub Profile! &nbsp;&nbsp; <img src="https://github.com/andrei2timo/andrei2timo/raw/main/.data/waving.gif" width="100" height="100"/> </h2>
+<h2 align="center">Hi 👋! Welcome to Andrei Timo's GitHub Profile! &nbsp;&nbsp; <img src="https://github.com/andrei2timo/andrei2timo/raw/main/.data/waving.gif" width="70" height="70"/> </h2>
 
 <kbd>
   <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical"/>
