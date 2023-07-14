@@ -32,6 +32,8 @@ Here are a few noteworthy projects I've worked on:
 
 🔐 [Stream Cipher Application using a Steganographic Technique](https://github.com/andrei2timo/Cryptography-Coursework---Final-Year): This GitHub repository hosts an innovative project focused on cryptography and data hiding. The project combines the principles of stream ciphers and steganography to create a robust encryption and concealment solution. With the aim of enhancing data security and privacy, the repository contains source code and documentation for this stream cipher application, providing users with a powerful tool to protect their sensitive information.
 
+🔄 [Oscillations - A Graphical Application for Understanding this Physical Process](https://github.com/andrei2timo/Oscillations): This project focuses on the study and visualization of periodic oscillations. It involves inputting the parameters of the oscillatory motion using the equation: y(t) = A * sin(ω * t + φ₀). By adjusting the values of A (amplitude), ω (angular frequency), and φ₀ (phase angle), the project allows for the exploration and visualization of different oscillatory behaviors. Through interactive visualizations and accompanying code examples, users can gain a better understanding of how changing these parameters affects the oscillatory motion and its visual representation.
+
 Feel free to explore my repositories to see more of my projects and contributions!
 
 ## Get in Touch and Connect with me
