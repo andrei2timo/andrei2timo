@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hello there! I'm Andrei, a passionate software developer with a focus on building robust and scalable applications. I love diving into complex problems, crafting elegant solutions, and continuously expanding my knowledge in the ever-evolving world of technology.
+Hello there! I'm Andrei, a passionate support engineer with a focus on building robust and scalable applications. I love diving into complex problems, crafting elegant solutions, and continuously expanding my knowledge in the ever-evolving world of technology.
 
 ## My Interests
 
