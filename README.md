@@ -34,6 +34,8 @@ Here are a few noteworthy projects I've worked on:
 
 🔄 [Oscillations - A Graphical Application for Understanding this Physical Process](https://github.com/andrei2timo/Oscillations): This project focuses on the study and visualization of periodic oscillations. It involves inputting the parameters of the oscillatory motion using the equation: y(t) = A * sin(ω * t + φ₀). By adjusting the values of A (amplitude), ω (angular frequency), and φ₀ (phase angle), the project allows for the exploration and visualization of different oscillatory behaviors. Through interactive visualizations and accompanying code examples, users can gain a better understanding of how changing these parameters affects the oscillatory motion and its visual representation.
 
+🦾 [Emotion Recognition using CNN algorithm for training and AR](https://github.com/andrei2timo/Emotion-recognition): This project utilizes Augmented Reality (AR) technology to detect emotions from live camera feed and overlays the name of the detected emotion along with an emoji reflecting the emotion. Emotion recognition is a crucial aspect of human-computer interaction, and this project aims to make it more intuitive and engaging by leveraging AR.
+
 Feel free to explore my repositories to see more of my projects and contributions!
 
 ## Get in Touch and Connect with me
