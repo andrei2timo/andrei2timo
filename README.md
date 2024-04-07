@@ -10,6 +10,9 @@
 
 Hello there! I'm Andrei, a passionate support engineer with a focus on building robust and scalable applications. I love diving into complex problems, crafting elegant solutions, and continuously expanding my knowledge in the ever-evolving world of technology.
 
+## 📄 My CV 📄
+[Andrei Timo CV 📥](https://drive.google.com/file/d/1STrEMr5LT6CFqCy5B9jwTOEb6z_FL5-Y/view?usp=drive_link)
+
 ## My Interests
 
 🔭 **Software Development:** I have a strong background in software development, particularly in Java and Python. I enjoy working on projects that challenge me and allow me to apply my problem-solving skills.
@@ -80,5 +83,3 @@ Here are some of the technologies, programming-languages and frameworks I work w
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40">
 </p>
 
-## 📄 My CV 📄
-[Download CV 📥](https://drive.google.com/file/d/1STrEMr5LT6CFqCy5B9jwTOEb6z_FL5-Y/view?usp=drive_link)
