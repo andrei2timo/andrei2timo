@@ -11,7 +11,7 @@
 Hello there! I'm Andrei, a passionate support engineer with a focus on building robust and scalable applications. I love diving into complex problems, crafting elegant solutions, and continuously expanding my knowledge in the ever-evolving world of technology.
 
 ## 📄 My CV 📄
-[Andrei Timo CV 📥](https://drive.google.com/file/d/1STrEMr5LT6CFqCy5B9jwTOEb6z_FL5-Y/view?usp=drive_link)
+[Andrei Timo CV 📥](https://drive.google.com/file/d/1STrEMr5LT6CFqCy5B9jwTOEb6z_FL5-Y/view?usp=sharing)
 
 ## My Interests
 
