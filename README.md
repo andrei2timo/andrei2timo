@@ -1,9 +1,10 @@
 <!-- Animated Header (No Vercel) -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://raw.githubusercontent.com/andrei2timo/andrei2timo/main/.data/hand-waving-hand.gif" width="80" alt="Hand waving" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Andrei+Timo's+GitHub;Cloud+and+AI+Engineer;Enterprise+Troubleshooting+%7C+Automation+%7C+REST+APIs;Microsoft+Azure+%7C+Oracle+Cloud+Infrastructure" alt="Typing SVG" />
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Andrei+Timo's+GitHub;Cloud+and+AI+Engineer;Enterprise+Troubleshooting+%7C+Automation+%7C+REST+APIs;Microsoft+Azure+%7C+Oracle+Cloud+Infrastructure" alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/andrei2timo/andrei2timo/main/.data/hand-waving-hand.gif" width="80" alt="Hand waving" />
+  </div>
 </div>
-
 
 ---
 
