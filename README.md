@@ -5,6 +5,11 @@
 
 ---
 
+# Andrei Timo
+### Cloud & AI Support Engineer | Enterprise Troubleshooting Specialist  
+
+---
+
 ## 📊 My GitHub Analytics
 
 <p align="center">
@@ -14,10 +19,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrei2timo&theme=radical" />
 </p>
-
----
-
-# Andrei Timo - Cloud & AI Support Engineer | Enterprise Troubleshooting Specialist  
 
 ---
 
