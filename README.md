@@ -5,12 +5,7 @@
 
 ---
 
-# Andrei Timo  
-### Cloud & AI Support Engineer | Enterprise Troubleshooting Specialist  
-
----
-
-## 📊 GitHub Analytics
+## 📊 My GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=andrei2timo&theme=radical&hide_border=false" />
@@ -19,6 +14,11 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrei2timo&theme=radical" />
 </p>
+
+---
+
+# Andrei Timo  
+### Cloud & AI Support Engineer | Enterprise Troubleshooting Specialist  
 
 ---
 
@@ -56,33 +56,7 @@ BSc Computer Science (First Class Honours, United Kingdom) with strong grounding
 
 ## 🧠 Core Technical Stack
 
-**Cloud & AI**
-- Microsoft Azure
-- Azure OpenAI
-- Cognitive Services
-- Enterprise SaaS Cloud
-
-**Development**
-- Python (Django)
-- Java
-- C++
-- JavaScript
-- React Native
-- Node.js
-
-**Data & Integrations**
-- SQL (Oracle / MySQL)
-- REST APIs
-- Database Optimization
-- API Debugging
-
-**DevOps & Tools**
-- Docker
-- Git
-- CI/CD
-- Jenkins
-- Postman
-- Linux
+Cloud Infrastructure (Azure) | AI Services (Azure OpenAI) | Distributed Systems Troubleshooting | REST Integrations | SQL Deep Diagnostics | Automation (Python/Java) | CI/CD & Containerization
 
 ---
 
