@@ -1,10 +1,11 @@
 <!-- Animated Header (No Vercel) -->
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <div style="display: flex; align-items: center; gap: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Andrei+Timo%27s+GitHub;Cloud+and+AI+Engineer;Enterprise+Troubleshooting+%7C+Automation+%7C+REST+APIs;Microsoft+Azure+%7C+Oracle+Cloud+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome%20to%20Andrei%20Timo%27s%20GitHub;Cloud%20and%20AI%20Engineer;Enterprise%20Troubleshooting%20%7C%20Automation%20%7C%20REST%20APIs;Microsoft%20Azure%20%7C%20Oracle%20Cloud%20Infrastructure" alt="Typing SVG" />
     <img src="https://raw.githubusercontent.com/andrei2timo/andrei2timo/main/.data/hand-waving-hand.gif" width="80" alt="Hand waving" />
   </div>
 </div>
+
 
 ---
 
