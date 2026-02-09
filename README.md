@@ -19,17 +19,17 @@
 
 ## 🏗️ Featured Projects
 
-### ☄️ [Projectile Motion Simulator](https://github.com/andrei2timo/ProjectileSimulator)
+### ☄️ [Projectile Motion Simulator](https://github.com/andrei2timo/Kinematic-equations-for-projectile-motion)
 **C++ | WinBGIm | Physics Engine**
 An adaptive graphical application that simulates oblique projectile motion with real-time physics calculations.
 * **Key Feature:** Auto-adaptive zoom system that frames trajectories perfectly regardless of initial velocity ($v_0$) or angle ($\alpha$).
 * **Visuals:** Real-time trajectory tracking and landing point detection.
 
-### 🎥 [Cinema Management System](https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B.git)
+### 🎥 [Cinema Management System](https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B)
 **Django | Docker | [cite_start]REST APIs** [cite: 32, 34, 36]
 A robust web application for managing cinema operations, showcasing containerization and API integration.
 
-### 🧩 [AI Sudoku Solver (AR)](https://github.com/andrei2timo/Dissertation---AI-Sudoku-Solver-using-Algorithm-X-and-Augmented-Reality.git)
+### 🧩 [AI Sudoku Solver (AR)](https://github.com/andrei2timo/Dissertation---AI-Sudoku-Solver-using-Algorithm-X-and-Augmented-Reality)
 **Algorithm X | Augmented Reality**
 A high-performance Sudoku solver that uses advanced backtracking algorithms and AR overlays for real-world interaction.
 
