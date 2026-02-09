@@ -5,8 +5,13 @@
 
 ---
 
-# Andrei Timo
-### Cloud & AI Support Engineer | Enterprise Troubleshooting Specialist  
+<h1 align="center">Andrei Timo</h1>
+<h3 align="center">Cloud & AI Support Engineer | Enterprise Troubleshooting Specialist</h3>
+
+<p align="center">
+  <em>Microsoft • Oracle • Azure OpenAI • Enterprise SaaS</em>
+</p>
+ 
 
 ---
 
