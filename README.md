@@ -10,6 +10,18 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=andrei2timo&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrei2timo&theme=radical" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 Enterprise Cloud Support Engineer with cross-company experience across Microsoft and Oracle, operating at Tier 2 level in high-volume, high-impact environments.
@@ -38,19 +50,7 @@ Resolved complex cross-system data failures between Oracle platforms and externa
 BSc Computer Science (First Class Honours, United Kingdom) with strong grounding in Software Engineering, Cloud Computing, and Advanced Databases.
 
 📄 Full technical background, metrics, and detailed experience available in my CV:  
-👉 https://drive.google.com/file/d/1up8zCSED6ZvueynPIz28UPAuIHGFRyPY/view
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=andrei2timo&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrei2timo&theme=radical" />
-</p>
+👉 [View Professional CV](https://drive.google.com/file/d/1up8zCSED6ZvueynPIz28UPAuIHGFRyPY/view)
 
 ---
 
@@ -90,25 +90,25 @@ BSc Computer Science (First Class Honours, United Kingdom) with strong grounding
 
 ### 🚀 Kinematic Equations for Projectile Motion  
 Physics-based computational project modeling projectile motion using classical kinematic equations and numerical computation techniques.  
-🔗 https://github.com/andrei2timo/Kinematic-equations-for-projectile-motion
+🔗 [Explore Repository](https://github.com/andrei2timo/Kinematic-equations-for-projectile-motion)
 
 ---
 
 ### 🧩 AI Sudoku Solver – Dissertation Project  
 AI-powered Sudoku solver implemented using Algorithm X and Augmented Reality concepts.  
-🔗 https://github.com/andrei2timo/Dissertation---AI-Sudoku-Solver-using-Algorithm-X-and-Augmented-Reality
+🔗 [View Dissertation Project](https://github.com/andrei2timo/Dissertation---AI-Sudoku-Solver-using-Algorithm-X-and-Augmented-Reality)
 
 ---
 
 ### 🔐 Stream Cipher with Steganographic Technique  
 Cryptography-focused project combining stream cipher principles with data hiding mechanisms for enhanced security.  
-🔗 https://github.com/andrei2timo/Cryptography-Coursework---Final-Year
+🔗 [Review Cryptography Project](https://github.com/andrei2timo/Cryptography-Coursework---Final-Year)
 
 ---
 
 ### 🎥 Cinema Management System  
 Django-based web application using Docker and API integrations for cinema workflow management.  
-🔗 https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B
+🔗 [Open Project Repository](https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B)
 
 ---
 
