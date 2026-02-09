@@ -11,12 +11,12 @@
 
 ## 🚀 Professional Summary
 
-I am a **Technical Support Engineer (L2)** with over 3 years of experience specializing in **Cloud AI & Cognitive Services**[cite: 8]. [cite_start]Currently at **Oracle** and formerly at **Microsoft**, I thrive on solving complex system escalations and optimizing enterprise cloud workflows[cite: 9, 21, 24].
+I am a **Technical Support Engineer (L2)** with over 3 years of experience specializing in **Cloud AI & Cognitive Services**. Currently at **Oracle** and formerly at **Microsoft**, I thrive on solving complex system escalations and optimizing enterprise cloud workflows.
 
-* [cite_start]☁️ **Cloud Expert:** Specializing in Microsoft Azure OpenAI, Cognitive Services, and REST API troubleshooting[cite: 8, 30, 34].
-* [cite_start]🛠️ **Problem Solver:** Proven track record in reducing Mean Time to Resolve (MTTR) for high-priority global client issues[cite: 11].
-* [cite_start]💻 **Developer at Heart:** Proficient in Python, Java, C++, and SQL for automation and root cause analysis[cite: 10, 32].
-* [cite_start]🎓 **Academic Excellence:** First Class Honours in Computer Science from UWE Bristol[cite: 13, 16].
+☁️ **Cloud Expert:** Specializing in Microsoft Azure OpenAI, Cognitive Services, and REST API troubleshooting.
+🛠️ **Problem Solver:** Proven track record in reducing Mean Time to Resolve (MTTR) for high-priority global client issues.
+💻 **Developer at Heart:** Proficient in Python, Java, C++, and SQL for automation and root cause analysis.
+🎓 **Academic Excellence:** First Class Honours in Computer Science from UWE Bristol.
 
 ## 📄 Resumé / CV
 [Andrei Timo CV - View & Download 📥](https://drive.google.com/file/d/1up8zCSED6ZvueynPIz28UPAuIHGFRyPY/view?usp=sharing)
@@ -37,7 +37,7 @@ A high-performance Sudoku solver that uses advanced backtracking algorithms and 
 
 ### 🎥 [Cinema Management System](https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B)
 **Django | Docker | REST APIs**
-[cite_start]A robust web application for managing cinema operations, showcasing containerization and REST API integration[cite: 32, 36].
+A robust web application for managing cinema operations, showcasing containerization and REST API integration.
 
 ## 🛠 Technologies & Tools
 
