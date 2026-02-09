@@ -17,8 +17,7 @@
 
 ---
 
-# Andrei Timo  
-### Cloud & AI Support Engineer | Enterprise Troubleshooting Specialist  
+# Andrei Timo - Cloud & AI Support Engineer | Enterprise Troubleshooting Specialist  
 
 ---
 
