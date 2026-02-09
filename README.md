@@ -1,11 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33BBFF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+Welcome+to+my+Profile;Technical+Support+Engineer+at+Oracle;Ex-Microsoft+Azure+AI+Engineer;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
-</h1>
+<h2 align="center">Hi 👋! Welcome to Andrei Timo's GitHub Profile! &nbsp;&nbsp; <img src="https://github.com/andrei2timo/andrei2timo/raw/main/.data/waving.gif" width="70" height="70"/> </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical&layout=compact" />
-</p>
+<kbd>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical"/>
+</kbd>
 
 ## 🚀 Professional Summary
 
