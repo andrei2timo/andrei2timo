@@ -1,17 +1,14 @@
 <!-- Animated Header (No Vercel) -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/andrei2timo/andrei2timo/main/.data/hand-waving-hand.gif" width="80" alt="Hand waving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+Andrei+Timo's+GitHub;Cloud+and+AI+Engineer;Enterprise+Troubleshooting+%7C+Automation+%7C+REST+APIs;Microsoft+Azure+%7C+Oracle+Cloud+Infrastructure" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andrei2timo/andrei2timo/main/.data/hand-waving-hand.gif" width="180" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+Andrei+Timo's+GitHub;Cloud+and+AI+Engineer;Enterprise+Troubleshooting+%7C+Automation+%7C+REST+APIs;Microsoft+Azure+%7C+Oracle+Cloud+Infrastructure" alt="Typing SVG" />
-</p>
 
 ---
 
 <h1 align="center">Andrei Timo</h1>
-<h3 align="center">Cloud & AI Support Engineer | Enterprise Troubleshooting Specialist</h3>
+<h3 align="center">Cloud & AI Engineer | Enterprise Troubleshooting Specialist</h3>
 
 <p align="center">
   <em>Microsoft • Oracle • Azure OpenAI • Enterprise SaaS</em>
