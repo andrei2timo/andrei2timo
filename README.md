@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! Welcome to Andrei Timo's GitHub Profile! &nbsp;&nbsp; <img src="https://github.com/andrei2timo/andrei2timo/raw/main/.data/waving.gif" width="70" height="70"/> </h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33BBFF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+Welcome+to+Andrei+Timo's+Profile;Cloud+Support+Engineer+at+Oracle;Ex-Microsoft+Azure+AI+Engineer;Passionate+about+Cloud+and+Development" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical&show_icons=true&count_private=true" alt="Andrei's Stats" />
@@ -9,10 +11,10 @@
 
 ## 🚀 Professional Summary
 
-[cite_start]I am a **Technical Support Engineer (L2)** with over 3 years of experience specializing in **Cloud AI & Cognitive Services**[cite: 8]. [cite_start]Currently at **Oracle** and formerly at **Microsoft**, I thrive on solving complex system escalations and optimizing enterprise cloud workflows.
+I am a **Technical Support Engineer (L2)** with over 3 years of experience specializing in **Cloud AI & Cognitive Services**[cite: 8]. [cite_start]Currently at **Oracle** and formerly at **Microsoft**, I thrive on solving complex system escalations and optimizing enterprise cloud workflows[cite: 9, 21, 24].
 
-* [cite_start]☁️ **Cloud Expert:** Specializing in Microsoft Azure OpenAI, Cognitive Services, and REST API troubleshooting[cite: 8, 10, 30].
-* [cite_start]🛠️ **Problem Solver:** Proven track record in reducing Mean Time to Resolve (MTTR) for high-priority global client issues.
+* [cite_start]☁️ **Cloud Expert:** Specializing in Microsoft Azure OpenAI, Cognitive Services, and REST API troubleshooting[cite: 8, 30, 34].
+* [cite_start]🛠️ **Problem Solver:** Proven track record in reducing Mean Time to Resolve (MTTR) for high-priority global client issues[cite: 11].
 * [cite_start]💻 **Developer at Heart:** Proficient in Python, Java, C++, and SQL for automation and root cause analysis[cite: 10, 32].
 * [cite_start]🎓 **Academic Excellence:** First Class Honours in Computer Science from UWE Bristol[cite: 13, 16].
 
@@ -21,23 +23,21 @@
 
 ## 🏗️ Featured Projects
 
+### 🔐 [Stream Cipher & Steganography Application](https://github.com/andrei2timo/Cryptography-Coursework---Final-Year)
+**Cryptography | Security | Data Hiding**
+An innovative project focused on cryptography and data hiding, combining stream ciphers and steganography to create a robust encryption and concealment solution.
+
 ### ☄️ [Projectile Motion Simulator](https://github.com/andrei2timo/Kinematic-equations-for-projectile-motion)
 **C++ | WinBGIm | Physics Engine**
-An adaptive graphical application that simulates oblique projectile motion with real-time physics calculations.
-* **Key Feature:** Auto-adaptive zoom system that frames trajectories perfectly regardless of initial velocity ($v_0$) or angle ($\alpha$).
-* **Visuals:** Real-time trajectory tracking and landing point detection.
-
-### 🎥 [Cinema Management System](https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B)
-**Django | Docker | [cite_start]REST APIs** [cite: 32, 34, 36]
-A robust web application for managing cinema operations, showcasing containerization and API integration.
+An adaptive graphical application that simulates oblique projectile motion with real-time physics calculations and an auto-adaptive zoom system.
 
 ### 🧩 [AI Sudoku Solver (AR)](https://github.com/andrei2timo/Dissertation---AI-Sudoku-Solver-using-Algorithm-X-and-Augmented-Reality)
 **Algorithm X | Augmented Reality**
 A high-performance Sudoku solver that uses advanced backtracking algorithms and AR overlays for real-world interaction.
 
-### 🔐 [Stream Cipher & Steganography Application](https://github.com/andrei2timo/Cryptography-Coursework---Final-Year)
-**Cryptography | Security | Data Hiding**
-An innovative security project that combines stream ciphers with steganographic techniques to encrypt and conceal sensitive information.
+### 🎥 [Cinema Management System](https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B)
+**Django | Docker | REST APIs**
+[cite_start]A robust web application for managing cinema operations, showcasing containerization and REST API integration[cite: 32, 36].
 
 ## 🛠 Technologies & Tools
 
@@ -53,6 +53,8 @@ An innovative security project that combines stream ciphers with steganographic 
 </p>
 
 ## 📫 Let's Connect!
+
+I'm always open to discussing **Cloud Engineering**, **AI implementations**, or **Software Development** opportunities.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/andrei-timo-46b940180/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
