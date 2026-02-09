@@ -1,9 +1,15 @@
 <h2 align="center">Hi 👋! Welcome to Andrei Timo's GitHub Profile! &nbsp;&nbsp; <img src="https://github.com/andrei2timo/andrei2timo/raw/main/.data/waving.gif" width="70" height="70"/> </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&layout=compact&langs_count=8&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andrei2timo&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrei2timo&layout=compact&langs_count=8&theme=radical" height="165"/>
+</p>
+
 
 ## 🚀 Professional Summary
 
@@ -38,29 +44,17 @@ A robust web application for managing cinema operations, showcasing containeriza
 ## 🛠 Technologies & Tools
 
 <p align="center">
-
-<strong>Languages</strong><br><br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
-
-<br><br>
-<strong>Cloud & DevOps</strong><br><br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/>
-
-<br><br>
-<strong>Frameworks & Tools</strong><br><br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
 </p>
+
 
 ## 📫 Let's Connect!
 
