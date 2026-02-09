@@ -29,17 +29,11 @@
 
 ## 🚀 About Me
 
-Enterprise Cloud Support Engineer with cross-company experience across Microsoft and Oracle, operating at Tier 2 level in high-volume, high-impact environments.
+Enterprise Cloud Support Engineer (Microsoft & Oracle) specializing in Azure OpenAI, REST API integrations, and SQL-based deep diagnostics.
 
-Specialized in diagnosing complex distributed system failures, debugging REST integrations, and performing deep SQL-driven investigations across customer production environments.
+Experienced in resolving distributed system failures in production environments, reducing MTTR, and stabilizing enterprise SaaS ecosystems.
 
-I focus on:
-- Reducing Mean Time to Resolution (MTTR)
-- Stabilizing enterprise API ecosystems
-- Preventing recurring systemic failures
-- Delivering measurable reliability improvements
-
-My background combines cloud infrastructure, AI services, and software engineering discipline — enabling both technical depth and architectural perspective.
+Strong focus on reliability engineering, automation, and systemic root cause elimination.
 
 ---
 
@@ -68,7 +62,7 @@ Cloud Infrastructure (Azure) | AI Services (Azure OpenAI) | Distributed Systems 
 ## 🏗 Featured Projects
 
 ### 🚀 Kinematic Equations for Projectile Motion  
-Physics-based computational project modeling projectile motion using classical kinematic equations and numerical computation techniques.  
+Numerical simulation of projectile motion using parametric kinematic equations and computational modeling techniques. 
 🔗 [Explore Repository](https://github.com/andrei2timo/Kinematic-equations-for-projectile-motion)
 
 ---
@@ -106,4 +100,6 @@ Django-based web application using Docker and API integrations for cinema workfl
 
 ---
 
-⭐ Focused on Cloud Reliability, AI Systems, and Enterprise-Grade Troubleshooting
+⭐ Focused on Cloud Reliability Engineering, AI Service Stability, and Enterprise-Scale System Diagnostics.
+
+---
