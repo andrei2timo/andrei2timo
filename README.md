@@ -1,31 +1,29 @@
 <h2 align="center">Hi 👋! Welcome to Andrei Timo's GitHub Profile! &nbsp;&nbsp; <img src="https://github.com/andrei2timo/andrei2timo/raw/main/.data/waving.gif" width="70" height="70"/> </h2>
 
-<kbd>
-  <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical&show_icons=true&count_private=true" alt="Andrei's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical&layout=compact" alt="Top Languages" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical"/>
-</kbd>
+## 🚀 About Me
 
-## About Me
+[cite_start]I am a **Technical Support Engineer (L2)** with over 3 years of experience specializing in **Cloud AI & Cognitive Services**[cite: 8]. [cite_start]Currently at **Oracle** and formerly at **Microsoft**, I thrive on solving complex system escalations and optimizing enterprise cloud workflows.
 
-Hello there! I'm Andrei, a passionate support engineer with a focus on building robust and scalable applications. I love diving into complex problems, crafting elegant solutions, and continuously expanding my knowledge in the ever-evolving world of technology.
+* [cite_start]☁️ **Cloud Expert:** Specializing in Microsoft Azure OpenAI, Cognitive Services, and REST API troubleshooting[cite: 8, 10, 30].
+* [cite_start]🛠️ **Problem Solver:** Proven track record in reducing Mean Time to Resolve (MTTR) for high-priority global client issues.
+* [cite_start]💻 **Developer at Heart:** Proficient in Python, Java, C++, and SQL for automation and root cause analysis[cite: 10, 32].
+* [cite_start]🎓 **Academic Excellence:** First Class Honours in Computer Science from UWE Bristol[cite: 13, 16].
 
-## 📄 My CV 📄
-[Andrei Timo CV 📥](https://drive.google.com/file/d/1up8zCSED6ZvueynPIz28UPAuIHGFRyPY/view?usp=sharing)
+## 📄 Resumé / CV
+[Andrei Timo CV - View & Download 📥](https://drive.google.com/file/d/1up8zCSED6ZvueynPIz28UPAuIHGFRyPY/view?usp=sharing)
 
-## My Interests
+## 🏗️ Featured Projects
 
-🔭 **Software Development:** I have a strong background in software development, particularly in Java and Python. I enjoy working on projects that challenge me and allow me to apply my problem-solving skills.
-
-👨‍💻 **Web Development:** I have experience in web development using frameworks such as Django and Flask. I find building interactive and user-friendly web applications both exciting and rewarding.
-
-🦾 **Machine Learning:** I have a keen interest in machine learning and data science. Exploring the fascinating world of algorithms and leveraging data to derive meaningful insights is something I find truly captivating.
-
-📖 **Open Source:** I am an advocate for open-source software and actively contribute to various open-source projects. I believe in the power of collaboration and enjoy being part of a vibrant developer community.
-
-## My Projects
-
-Here are a few noteworthy projects I've worked on:
+### ☄️ [Projectile Motion Simulator](https://github.com/andrei2timo/ProjectileSimulator)
+**C++ | WinBGIm | Physics Engine**
+An adaptive graphical application that simulates oblique projectile motion with real-time physics calculations.
+* **Key Feature:** Auto-adaptive zoom system that frames trajectories perfectly regardless of initial velocity ($v_0$) or angle ($\alpha$).
+* **Visuals:** Real-time trajectory tracking and landing point detection.
 
 🎥 [Cinema Management System](https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B.git): A Django-based web application for managing a cinema system, utilizing Docker and APIs.
 
