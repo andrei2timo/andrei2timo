@@ -1,16 +1,5 @@
-<h2 align="center">Hi 👋! Welcome to Andrei Timo's GitHub Profile! &nbsp;&nbsp; <img src="https://github.com/andrei2timo/andrei2timo/raw/main/.data/waving.gif" width="70" height="70"/> </h2>
-
-
-
-<kbd>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical"/>
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical"/>
-
-</kbd>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrei2timo&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&layout=compact&theme=radical&langs_count=8)
 
 
 
