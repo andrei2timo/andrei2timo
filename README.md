@@ -2,10 +2,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&theme=radical&show_icons=true&count_private=true" alt="Andrei's Stats" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
 [cite_start]I am a **Technical Support Engineer (L2)** with over 3 years of experience specializing in **Cloud AI & Cognitive Services**[cite: 8]. [cite_start]Currently at **Oracle** and formerly at **Microsoft**, I thrive on solving complex system escalations and optimizing enterprise cloud workflows.
 
@@ -33,6 +35,10 @@ A robust web application for managing cinema operations, showcasing containeriza
 **Algorithm X | Augmented Reality**
 A high-performance Sudoku solver that uses advanced backtracking algorithms and AR overlays for real-world interaction.
 
+### 🔐 [Stream Cipher & Steganography Application](https://github.com/andrei2timo/Cryptography-Coursework---Final-Year)
+**Cryptography | Security | Data Hiding**
+An innovative security project that combines stream ciphers with steganographic techniques to encrypt and conceal sensitive information.
+
 ## 🛠 Technologies & Tools
 
 <p align="left">
@@ -47,8 +53,6 @@ A high-performance Sudoku solver that uses advanced backtracking algorithms and 
 </p>
 
 ## 📫 Let's Connect!
-
-I'm always open to discussing **Cloud Engineering**, **AI implementations**, or **Software Development** opportunities.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/andrei-timo-46b940180/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
