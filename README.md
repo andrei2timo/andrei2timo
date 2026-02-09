@@ -1,13 +1,10 @@
-<h2 align="center">Hi 👋! Welcome to Andrei Timo's GitHub Profile! &nbsp;&nbsp; <img src="https://github.com/andrei2timo/andrei2timo/raw/main/.data/waving.gif" width="70" height="70"/> </h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33BBFF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+Welcome+to+my+Profile;Technical+Support+Engineer+at+Oracle;Ex-Microsoft+Azure+AI+Engineer;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andrei2timo&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrei2timo&layout=compact&langs_count=8&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrei2timo&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrei2timo&layout=compact&theme=radical" height="165" />
 </p>
 
 
@@ -61,6 +58,6 @@ A robust web application for managing cinema operations, showcasing containeriza
 I'm always open to discussing **Cloud Engineering**, **AI implementations**, or **Software Development** opportunities.
 
 <p align="left">
-<a href="https://www.linkedin.com/in/andrei-timo-46b940180/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/andrei-timo/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:andreitimo048@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
