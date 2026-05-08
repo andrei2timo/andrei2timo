@@ -49,7 +49,7 @@ Resolved complex cross-system data failures between Oracle platforms and externa
 BSc Computer Science (First Class Honours, United Kingdom) with strong grounding in Software Engineering, Cloud Computing, and Advanced Databases.
 
 📄 Full technical background, metrics, and detailed experience available in my CV:  
-👉 [View Professional CV](https://drive.google.com/file/d/1up8zCSED6ZvueynPIz28UPAuIHGFRyPY/view)
+👉 [View Professional CV](https://drive.google.com/file/d/1NwgYXkMImJX9dpqcXz8vg2DVGBxf574w/view?usp=sharing)
 
 ---
 
