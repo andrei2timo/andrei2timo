@@ -61,25 +61,41 @@ Cloud Infrastructure (Azure) | AI Services (Azure OpenAI) | Distributed Systems 
 
 ## 🏗 Featured Projects
 
-### 🚀 Kinematic Equations for Projectile Motion  
-Numerical simulation of projectile motion using parametric kinematic equations and computational modeling techniques. 
+### 🏥 Terapia Vikingă — Clinic Booking System
+Full-stack internal web application for managing appointments across 3 national caravans and a home therapy service in Galați county. Built with React + Vite and Firebase (Firestore, Auth, Hosting, Cloud Functions).
+
+Features: drag & drop calendar, role-based access, route optimization with OpenRouteService, PDF exports, global patient search, audit log, and CTI 3CX integration.
+
+🔗 [Live Application](https://clinica-app-cafd6.web.app/login)
+
+---
+
+### 📚 Pregătiri Online — Math Tutoring Platform
+Web platform for online math tutoring sessions, built to streamline scheduling and communication between tutors and students.
+
+🔗 [Visit Platform](https://andreitimo.com/)
+
+---
+
+### 🚀 Kinematic Equations for Projectile Motion
+Numerical simulation of projectile motion using parametric kinematic equations and computational modeling techniques.  
 🔗 [Explore Repository](https://github.com/andrei2timo/Kinematic-equations-for-projectile-motion)
 
 ---
 
-### 🧩 AI Sudoku Solver – Dissertation Project  
+### 🧩 AI Sudoku Solver – Dissertation Project
 AI-powered Sudoku solver implemented using Algorithm X and Augmented Reality concepts.  
 🔗 [View Dissertation Project](https://github.com/andrei2timo/Dissertation---AI-Sudoku-Solver-using-Algorithm-X-and-Augmented-Reality)
 
 ---
 
-### 🔐 Stream Cipher with Steganographic Technique  
+### 🔐 Stream Cipher with Steganographic Technique
 Cryptography-focused project combining stream cipher principles with data hiding mechanisms for enhanced security.  
 🔗 [Review Cryptography Project](https://github.com/andrei2timo/Cryptography-Coursework---Final-Year)
 
 ---
 
-### 🎥 Cinema Management System  
+### 🎥 Cinema Management System
 Django-based web application using Docker and API integrations for cinema workflow management.  
 🔗 [Open Project Repository](https://github.com/andrei2timo/ESD-UWEFlix-Cinema-Component-B)
 
